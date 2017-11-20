@@ -2,8 +2,8 @@ require 'formula'
 
 class Liftoff < Formula
   homepage 'https://github.com/liftoffcli/liftoff'
-  url 'http://liftoffcli.github.io/liftoff/Liftoff-1.8.1.tar.gz'
-  sha256 '4f60770640cef4d510fccb66fb36e7418487f013070d2a7fcce3b450638c1566'
+  url 'http://liftoffcli.github.io/liftoff/Liftoff-1.8.2.tar.gz'
+  sha256 'edc9b7e0003b5b96a9713bbd18941fd8438b47af9af2046b9787441fc6c7f262'
 
   depends_on 'xcproj' => :recommended
 
